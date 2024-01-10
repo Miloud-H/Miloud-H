@@ -4,10 +4,6 @@
   
 
 ### <div align="center">I'm Miloud, a full-time backend developer 👨‍💻 Based in Montréal, Canada since may 2022 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Portable North Pole](https://portablenorthpole.com) for Ugroupmedia
-  
 
 - 🌱 I’m currently learning Golang, AWS and Kubernetes  
   
