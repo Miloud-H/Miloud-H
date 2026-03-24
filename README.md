@@ -5,14 +5,10 @@
 
 ### <div align="center">I'm Miloud, a full-time backend developer 👨‍💻 Based in Montréal, Canada since may 2022 🚀</div>  
 
-- 🌱 I’m currently learning Golang, AWS and Kubernetes  
+- 🌱 I’m currently learning Rust and i love it!  
   
 
-- ❓ Ask me about anything related to PHP  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ❓ Ask me about anything related to PHP    
 
 <br/>  
 
